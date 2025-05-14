@@ -1,2 +1,2 @@
-# My-first-POWER-BI-Project
-This is my first Power BI project. 
+# Power BI workbook by TAWHIDUL AMIN RAFI
+# In this project, I've worked on various types of functions, attributes & tools on Power BI to present and orient complex datas.
